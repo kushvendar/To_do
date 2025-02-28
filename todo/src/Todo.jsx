@@ -15,7 +15,7 @@ function Todo(props) {
     setList([...list,inputText])
   }
   const delList=(key)=>{
-    let newList=[...List]
+    let newList=[...list]
     newList.splice(key,1)
     setList([...newList])
   }
