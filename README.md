@@ -53,10 +53,9 @@ todo-list-app/
 ├── public/  
 ├── src/  
 │   ├── components/   # Reusable components (e.g., TodoItem, WeatherWidget)  
-│   ├── assets/       # Images and icons  
-│   ├── App.js        # Main app component  
-│   ├── index.js      # React DOM rendering  
-│   ├── styles.css    # Tailwind CSS styles  
+│   ├── images/       # Images and icons  
+│   ├── App.jsx        # Main app component  
+│   ├── App.css    # Tailwind CSS styles  
 │   └── ...  
 ├── .env              # Environment variables (if using Weather API)  
 ├── package.json  
