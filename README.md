@@ -25,19 +25,14 @@ cd todo-list-app
 2. **Install dependencies:**  
 ```bash  
 npm install  
-```  
- 
-3. **Create an `.env` file:** (Optional)  
-```plaintext  
-REACT_APP_WEATHER_API_KEY=your_api_key_here  
-```  
+``` 
 
-4. **Start the development server:**  
+3. **Start the development server:**  
 ```bash  
 npm run dev 
 ```  
 
-6. **Build for production:**  
+4. **Build for production:**  
 ```bash  
 npm run build  
 ```  
@@ -56,8 +51,7 @@ todo-list-app/
 │   ├── images/       # Images and icons  
 │   ├── App.jsx        # Main app component  
 │   ├── App.css    # Tailwind CSS styles  
-│   └── ...  
-├── .env              # Environment variables (if using Weather API)  
+│   └── ...   
 ├── package.json  
 └── README.md  
 ```  
